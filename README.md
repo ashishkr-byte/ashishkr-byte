@@ -1,7 +1,7 @@
 # Hi there, I'm Ashish Kumar 👋 
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
 
-`Cloud & DevOps Professional'
+`Cloud & DevOps Professional`
   
 
 
