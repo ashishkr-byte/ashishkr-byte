@@ -1,18 +1,49 @@
-<h1 align="left">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="left">A passionate devops and cloud engineer in India</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkr-byte&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkr-byte" /> </p> -->
-
-
-- 🌱 I’m currently learning **AWS Cloud and Devops tools**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashishresets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishresets" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# Hi there, I'm Ashish Kumar 👋 
+### Cloud & DevOps Professional
+  
+  <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkr-byte&" alt="ashishkr-byte" /></p> -->
+### ☁️ About Me
+I am a **Cloud and DevOps Professional** based in India, dedicated to streamlining workflows and building scalable, reliable infrastructure. My focus is on bridging the gap between development and operations through automation, containerization, and cloud-native strategies.
+
+- 🔭 I’m currently focused on mastering **AWS Cloud and DevOps** ecosystems.
+- 🌱 I’m currently learning advanced **Infrastructure as Code (IaC)** and CI/CD patterns.
+- 💬 Ask me about **Docker, Terraform, or Cloud Architecture**.
+
+---
+
+### 🚀 Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) (EC2, S3, ECS, VPC, IAM) |
+| **DevOps & Tools** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+
+---
+
+### 🛠 Featured Projects (Will be updated later)
+> [!TIP]
+> **Project Name** - Brief description of the project.
+> * *Tech:* AWS, Terraform, Docker
+> * [View Code](#) | [Live Demo](#)
+
+---
+
+### 📊 GitHub Stats & Connectivity
+![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ashishkr-byte&hide=["issues"]&show_icons=true)
+
+**Connect with me:**
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashishresets)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish0107/)
+
+---
+
+### 💡 Quote of the Day
+> "The best error message is the one that never shows up because the system was designed to handle it."
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ashishkr-bytes&color=blue)
